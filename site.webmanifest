@@ -1,0 +1,11 @@
+{
+  "name": "Rick King Consulting",
+  "short_name": "RKC",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#070708",
+  "background_color": "#070708",
+  "display": "standalone"
+}
